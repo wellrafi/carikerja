@@ -70,5 +70,15 @@ module.exports = [
     social_media: 'https://www.linkedin.com/in/ryanakbar20/',
     tech_stack: ['react', 'react-native', 'nodejs', 'mongodb'],
     hired: false
+  },
+  {
+    name: 'Rafi Royhan',
+    status: 'Fulltime',
+    role: 'Jr. Software Developer',
+    location: 'Jakarta',
+    social_media: 'https://www.linkedin.com/in/rafi-royhan-795026184/',
+    tech_stack: ['react', 'nodejs'],
+    hired: false
   }
+
 ];
